@@ -18,7 +18,7 @@
 	<div class="container-fluid header">
 		
 		
-			<label class="logo "><i >Room-Milega.Com</i></label>
+			<label class="logo"><i >Room-Milega.Com</i></label>
 			
 			<input type="text" class="location form-control" id="location" placeholder="Enter the location Cities,Street...." >
 			<button type="button" class="btn btn-default btn1">
