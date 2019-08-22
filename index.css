@@ -1,0 +1,94 @@
+
+	.header{
+		color:white;
+		background-color: rgb(240,55,55);
+		padding-top: 1%;
+		padding-bottom: 1%;
+		position:fixed;
+		top: 0;
+		width: 100%;
+
+	}
+	.logo{
+		float:left;
+	}
+	.location{
+		margin-left: 11%;
+		width: 30%;
+		float: left;
+	}
+
+	.btn1{
+		color: white;
+		background-color: black;
+		margin-left: -1%;
+
+	}
+	.btn2{
+		float: right;
+	}
+	.list{
+		background-color: white;
+		height: 50%;
+		width: 80%;
+		margin-top: 8%;
+		margin-left: 13%;
+		padding-top: 1%;
+		padding-left: 1%;
+		padding-bottom: 1%;
+
+	}
+	.dropdown{
+		float: right;
+		padding-right: 2%;
+	}
+	.result{
+		
+		height:50%;
+		width: auto;
+		margin-top: 1%;
+		margin-left:0%;
+		padding-top: 1%;
+		padding-left: 1%;
+		padding-bottom: 1%;
+		background-color: white;
+	}
+	
+	.rent-detail{
+		padding-left: 13%;
+		padding-bottom: 3%;
+		margin-top: -8%
+
+	}
+	.rent{
+		padding-top: 7%;
+		color: red;
+	}
+	.room-detail{
+		margin-top: -15%;
+		padding-left: 20%;
+		padding-top:-2%;
+	}
+	.room-facility{
+		padding-top: 2%;
+		padding-bottom:5%;
+	}
+	.table{
+		margin-top:5%;
+		width: 40%;
+		
+	}
+	.view-btn:hover{
+		background-color: red;
+	}
+
+	.view-btn{
+		color: white;
+		font-size: 16px;
+
+	}
+	.owner{
+		float: right;
+		padding-right: 1%;
+	}
+	
